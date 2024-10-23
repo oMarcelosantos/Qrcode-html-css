@@ -14,4 +14,4 @@ Este é um simples gerador de QR Code criado como um projeto inicial utilizando 
 ### Como usar
 1. **Clone o repositório:**
    ```bash
-   git clone https://seu-link-do-repositorio.git
+   https://github.com/oMarcelosantos/qrcode-html-css.git
