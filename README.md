@@ -1,4 +1,4 @@
-## Gerador de QR Code Básico
+## Front-end Mentor QrCode Básico
 
 ### Descrição
 Este é um simples gerador de QR Code criado como um projeto inicial utilizando HTML e CSS. O objetivo principal é demonstrar a criação de um elemento visualmente atraente e funcional, utilizando tecnologias básicas de desenvolvimento web.
